@@ -1,6 +1,6 @@
 # Discrete Covariates
 
-The data set rent_index_99.csv1 contains rent index data for Munich collected in 1999. It contains information about the net rent and 6 other covariates for a total of 3082 apartments in Munich. The covariates include:
+The data set rent_index_99.csv contains rent index data for Munich collected in 1999. It contains information about the net rent and 6 other covariates for a total of 3082 apartments in Munich. The covariates include:
  • size of the living area (i.e. the apartment’s size) in square meters;
  • construction year;
  • quality of the bathroom (0 standard, 1 premium);
